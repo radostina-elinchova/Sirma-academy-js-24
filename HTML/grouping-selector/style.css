@@ -1,0 +1,22 @@
+#first-span {
+    font-weight: bold;
+}
+
+#first-link {
+    font-style: italic;
+}
+
+.aqua {
+    color: aqua;
+}
+
+.crimson {
+    color: crimson;
+}
+div p {
+    color: blueviolet;
+}
+
+a, span{
+    border: 1px solid green
+}

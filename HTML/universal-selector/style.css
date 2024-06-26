@@ -1,0 +1,19 @@
+* {
+    border: 1px solid blue;
+}
+
+#first-span {
+    font-weight: bold;
+}
+
+#first-link {
+    font-style: italic;
+}
+
+.aqua {
+    color: aqua;
+}
+
+.crimson {
+    color: crimson;
+}

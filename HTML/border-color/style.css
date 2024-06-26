@@ -1,0 +1,18 @@
+
+.aqua {
+    color: aqua;
+    border: 1px solid rgb(229, 18, 42)
+}
+
+.crimson {
+    color: crimson;
+    border: 1px solid rgb(13, 216, 128)
+}
+div p {
+    color: blueviolet;
+    border: 1px solid rgb(94, 0, 128)
+}
+
+a, span{
+    border: 1px solid green
+}

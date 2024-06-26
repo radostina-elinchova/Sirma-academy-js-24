@@ -1,0 +1,26 @@
+#first-span {
+    font-weight: bold;
+}
+
+#first-link {
+    font-style: italic;
+}
+
+.aqua {
+    color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+
+.crimson {
+    color: crimson;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: small;
+}
+div p {
+    color: blueviolet;
+}
+
+a, span{
+    border: 1px solid green
+}

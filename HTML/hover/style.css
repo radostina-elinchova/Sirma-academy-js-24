@@ -1,0 +1,8 @@
+a:hover{
+    color:green;
+    border: 1px solid red
+}
+
+button:hover{
+    border: 2px dotted aqua
+}

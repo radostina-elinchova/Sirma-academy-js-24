@@ -1,0 +1,38 @@
+#first-span {
+    font-weight: bold;
+}
+
+#first-link {
+    font-style: italic;
+}
+
+.aqua {
+    color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    font-weight: lighter;
+    font-style: oblique;
+    text-align: end;
+    line-height: 20px;
+}
+
+.crimson {
+    color: crimson;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: small;
+    font-weight: bolder;
+    font-style: italic;
+    text-align: start;
+    line-height: 40px;
+}
+
+div p {
+    color: blueviolet;
+    text-align: justify;
+    line-height: 10px;
+}
+
+a,
+span {
+    border: 1px solid green
+}

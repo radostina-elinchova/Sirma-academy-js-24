@@ -1,0 +1,15 @@
+span {
+    font-weight: bold;
+}
+
+a {
+    font-style: italic;
+}
+
+p:nth-child(3) {
+    color: aqua;
+}
+
+p:last-of-type {
+    color: crimson;
+}
